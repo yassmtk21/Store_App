@@ -1,16 +1,1 @@
-[
-  {
-    "id": "123321",
-    "title": "REST API ",
-    "imageUrl": "https://media.s-bol.com/gBywKB8PE2j/914x1200.jpg",
-    "price": "9.99",
-    "description": "REST API Design Rulebook"
-  },
-  {
-    "title": "LED LAMP",
-    "imageUrl": "https://smuf.in/wp-content/uploads/2023/02/Rocklight-Rechargeable-LED-Touch-On-Off-Switch-Student-Study-Reading-Study-Lamp.jpg",
-    "price": "14.99",
-    "description": "Lights up your life with desk lamp, eye protection with advanced luminous technology,",
-    "id": "0.8935584906025427"
-  }
-]
+[{"id":"123321","title":"REST API","imageUrl":"https://media.s-bol.com/gBywKB8PE2j/914x1200.jpg  ","price":"9.99  ","description":"REST API Design Rulebook      "},{"id":"0.8935584906025427","title":"LED LAMP","imageUrl":"https://smuf.in/wp-content/uploads/2023/02/Rocklight-Rechargeable-LED-Touch-On-Off-Switch-Student-Study-Reading-Study-Lamp.jpg","price":"12.99      ","description":"Lights up your life with desk lamp, eye protection with advanced luminous technology,      "}]
